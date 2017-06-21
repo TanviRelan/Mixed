@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite errors="0" failures="0" hostname="admins-mac-mini.cybage.com" name="ComponentSwiftTests" tests="2" time="0.003" timestamp="2017-06-20 18:39:06 +0530"><testcase classname='ComponentSwiftTests' name='test_sayHello_whenInvokedWithEmptyString_returnsHelloWorld' time='0.001' />
+<testcase classname='ComponentSwiftTests' name='test_sayHello_whenInvokedWithNonEmptyString_substitutesName' time='0.001' />
+</testsuite>

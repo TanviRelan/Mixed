@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite errors="0" failures="0" hostname="admins-mac-mini.cybage.com" name="MixedLanugageExampleTests" tests="2" time="0.451" timestamp="2017-06-20 18:39:06 +0530"><testcase classname='MixedLanugageExampleTests' name='testExample' time='0.0' />
+<testcase classname='MixedLanugageExampleTests' name='testPerformanceExample' time='0.449' />
+</testsuite>
